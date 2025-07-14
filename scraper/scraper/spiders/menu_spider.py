@@ -32,7 +32,6 @@ class MenuSpider(scrapy.Spider):
 
 
         nutrients = {n["name"]: n["value"] for n in item_data.get("nutrient_facts", {}).get("nutrient", [])}
-        print(f"----------------------nutrients: {nutrients}")
 
         product["calories"] = nutrients.get("Калорійність")
         product["fats"] = nutrients.get("Жири")
