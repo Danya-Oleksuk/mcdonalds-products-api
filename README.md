@@ -16,8 +16,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Danya-Oleksuk/planning-bot-aiogram.git
-cd planning-bot-aiogram
+git clone https://github.com/Danya-Oleksuk/mcdonalds-products-api.git
+cd mcdonalds-products-api
 ```
 
 ### 2. Install Dependencies
