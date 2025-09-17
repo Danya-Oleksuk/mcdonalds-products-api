@@ -13,9 +13,17 @@
 - 🔍 Search, filter, and get product details  
 - 📑 Auto-generated Swagger docs at `/docs`
 
+### 1. Clone the Repository
 
-**Clone the repository**:
-   ```bash
-   git clone https://github.com/Danya-Oleksuk/pc-components-shop.git
-   cd pc-components-shop
-   ```
+```bash
+git clone https://github.com/Danya-Oleksuk/planning-bot-aiogram.git
+cd planning-bot-aiogram
+```
+
+### 2. Install Dependencies
+
+Make sure you have Python 3.10+ installed.
+
+```bash
+pip install -r requirements.txt
+```
